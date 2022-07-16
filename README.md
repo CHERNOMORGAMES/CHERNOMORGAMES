@@ -4,4 +4,4 @@
 
 And this is kinda my github profile :mortar_board:  
 #
-I am interrested in web and game development  
+I am interrested in web, gamedev and linux :floppy_disk:  
