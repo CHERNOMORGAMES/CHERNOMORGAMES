@@ -1,6 +1,6 @@
 #
 ### :zap: Greatings! :zap:  
-#### I am ![https://www.codewars.com/users/CHERNOMORGAMES](https://www.codewars.com/users/CHERNOMORGAMES/badges/micro "codewars.com") CHERNOMOR of the Iron Hands :godmode:  
+#### I am ![https://www.codewars.com/users/CHERNOMORGAMES](https://www.codewars.com/users/CHERNOMORGAMES/badges/micro "https://www.codewars.com/users/CHERNOMORGAMES") [CHERNOMOR](https://www.codewars.com/users/CHERNOMORGAMES) of the [Iron Hands](https://discord.gg/YXETcys7HP) :godmode:  
 
 And this is my github profile :mortar_board:  
 #
