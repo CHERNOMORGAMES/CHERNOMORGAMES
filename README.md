@@ -5,4 +5,4 @@
 Use _www.codewars.com/r/SUqErQ_ if you want to become a codewarrior :mortar_board:  
 
 #
-I am interrested in web, gamedev and linux :floppy_disk:  
+I am interrested in Gamedev, Linux and CODESYS :floppy_disk:  
